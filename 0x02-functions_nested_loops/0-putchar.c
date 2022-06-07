@@ -1,7 +1,7 @@
 #include <studio.h>
 #include <stdlib.h>
 
-int main ()
+int main (void)
 {
 	printf("_putchar\n");
 	return 0;
